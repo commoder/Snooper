@@ -5,3 +5,4 @@
 2. Lint all script files
 3. Improve functionality
 4. Create some kind of UI for the backend scripts
+5. Create actual readme.
